@@ -52,9 +52,10 @@ stringSignTemp="pay_amount=pay_amount&pay_applydate=pay_applydate&pay_bankcode=p
 注：签名见签名算法。
 
 >###**附：通道编码**
-
+通过商务群发布
 
 >###**接入示例（PHP）**
+具体可查看相关Demo
 
 ``index.php``
 ```
