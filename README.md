@@ -23,6 +23,10 @@
 |pay_producturl	|商户链接地址	|否	|否	
 
 返回参数
+
+
+| 参数名称 | 参数含义  | 
+| ------ |:-----|
 |pay_memberid |商户号
 |pay_orderid |平台生成订单号
 |pay_out_trade_id 外部订单号- 上报
