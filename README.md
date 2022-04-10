@@ -22,6 +22,15 @@
 |pay_productdesc	|商品描述	|否	|否	
 |pay_producturl	|商户链接地址	|否	|否	
 
+返回参数
+|pay_memberid |商户号
+|pay_orderid |平台生成订单号
+|pay_out_trade_id 外部订单号- 上报
+|pay_applydate | 提交时间
+|pay_amount | 支付金额
+|pay_url | 支付地址
+|pay_bankcode | 支付通道编码
+|expired_time | 订单生成时间
 ***
 >###**签名算法：**
 
