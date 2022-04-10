@@ -17,7 +17,7 @@
 |pay_amount	|订单金额	|是	|是	|商品金额
 |pay_md5sign	|MD5签名	|是	|否	|请看MD5签名字段格式
 |pay_attach	|附加字段	|否	|否	|此字段在返回时按原样返回(中文需要url编码)
-|pay_productname	|商品名称	|否	|否	
+|pay_productname	|商品名称	|是	|否	
 |pay_productnum	|商户品数量	|否	|否	
 |pay_productdesc	|商品描述	|否	|否	
 |pay_producturl	|商户链接地址	|否	|否	
